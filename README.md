@@ -1,15 +1,12 @@
-Hi, I'm Shaun S! 👨‍💻🚀
 
-👾 Code Alchemist – Turning coffee into bugs since 2021.
-🎭 CSS Magician – Where flexbox & grid solve problems I didn’t know I had.
-🐛 Bug Creator & Fixer – Sometimes in that order.
-🤖 JavaScript Enthusiast – Writing code that works… most of the time.
+Sure! Here’s a fun bullet-point style version for your GitHub profile:
 
-💡 Fun Facts About Me:
-🔹 I once spent 3 hours debugging, only to realize I missed a semicolon.
-🔹 80% of my code is Googled, 10% is Stack Overflow-ed, and the last 10%? Pure luck.
-🔹 My most used Git command: git commit -m "fix stuff" (no details provided).
-
-🚀 Currently working on: Learning new tech, improving my MERN stack skills, and figuring out why my code works (or doesn’t).
-
-📌 Life motto: “If it compiles, ship it.”
+Hey there! 👋😄
+💻 Frontend Developer & MERN Stack Explorer – Making things work (after breaking them a few times).
+🎨 CSS Survivor – If it looks good and isn’t broken, I probably copied it from Stack Overflow.
+🐞 Bug Whisperer – I don’t find bugs; they find me.
+⚡ JavaScript Enthusiast – Writing console.log("working?") since day one.
+🛠️ React Fanatic – Still pretending to fully understand useEffect().
+🚀 Git Expert – By that, I mean I use git push --force way more than I should.
+⏳ Procrastination Pro – Why fix it now when I can fix it in production?
+📌 Motto: “If it works, don’t ask why.”
