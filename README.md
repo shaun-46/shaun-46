@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Shaun S! 👨‍💻🚀
+👾 Code Alchemist – Turning coffee into bugs since 2021 .
+🎭 CSS Magician – Where flexbox & grid solve problems I didn’t know I had.
+🐛 Bug Creator & Fixer – Sometimes in that order.
+🤖 JavaScript Enthusiast – Writing code that works… most of the time.
 
-<!--
-**shaun-46/shaun-46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Fun Facts About Me:
+🔹 I once spent 3 hours debugging, only to realize I missed a semicolon.
+🔹 80% of my code is Googled, 10% is Stack Overflow-ed, and the last 10%? Pure luck.
+🔹 My most used Git command: git commit -m "fix stuff" (no details provided).
 
-Here are some ideas to get you started:
+🚀 Currently working on: Learning new tech, improving my MERN stack skills, and figuring out why my code works (or doesn’t).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Life motto: “If it compiles, ship it.”
