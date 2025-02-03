@@ -1,11 +1,25 @@
-Hey there! 👋😄
-💻 Frontend Developer & MERN Stack Explorer – Making things work (after breaking them a few times).
+👋 Hey there! I'm Shaun S
+🚀 Frontend Developer | MERN Stack Enthusiast | Part-time Laptop Technician
+💻 Debugging code by day, fixing laptops by night
+🌱 Currently watering plants and growing my skills
+🎯 Aiming to replace console.logs with actual debugging
 
-🎨 CSS Survivor – If it looks good and isn’t broken, I probably copied it from Stack Overflow.
-🐞 Bug Whisperer – I don’t find bugs; they find me.
-⚡ JavaScript Enthusiast – Writing console.log("working?") since day one.
-🛠️ React Fanatic – Still pretending to fully understand useEffect().
-🚀 Git Expert – By that, I mean I use git push --force way more than I should.
-⏳ Procrastination Pro – Why fix it now when I can fix it in production?
-📌 Motto: “If it works, don’t ask why.”
+👨‍💻 About Me:
+🔧 I fix laptops when I'm not breaking my own code.
+🧐 Still figuring out if it's a bug or a feature.
+⏳ Spending more time fixing merge conflicts than writing new features.
+🎤 Can talk about React for hours but forget my own phone number.
+📚 I read books, but my browser history is mostly Stack Overflow.
+🚀 Tech Stack:
+
+
+
+
+
+
+📊 Stats (if numbers impress you):
+
+
+🔗 Let's Connect:
+
 
